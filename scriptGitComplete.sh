@@ -1,6 +1,8 @@
 echo "Atualizando Ubuntu"
 sudo apt-get update
+
 echo "Instalando o GitHub!"
+# Verificar se o git ja esta instalado. 
 sudo apt-get install git
 
 #Input nome!
